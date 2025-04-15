@@ -6,7 +6,7 @@ $_SESSION["login"] = true;
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $user = $_POST["user"];
     $password = $_POST["password"];
-    if ($user == "admin" && $password == "admin") {
+    if ($user == "etmin" && $password == "etmin") {
         $_SESSION["user"] = $user;
         header("Location: member.php");
         exit();
