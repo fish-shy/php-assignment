@@ -31,7 +31,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 <body>
     <nav>
-        <img src="ferari.png" alt="logo" width="60px" class="mt-2">
+        <img src="https://purepng.com/public/uploads/large/purepng.com-ferrari-logoferrariferrari-carsferrari-automobilescarssportferrari-logo-17015274809730h2ic.png" alt="logo" width="60px" class="mt-2">
     </nav>
     <div class="form-wrapper">
         <h2>Sign In</h2>
